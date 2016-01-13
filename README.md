@@ -1,5 +1,5 @@
 # ADCExtended-
-Five built-in microphones device conecten to ADCExtended i.e. PureData/Gem
+Five built-in microphones 5V-device connect via usb/minijack to ADCExtended i.e. PureData/Gem
 
 Published:
 
