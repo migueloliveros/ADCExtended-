@@ -529,7 +529,7 @@
 #X connect 120 0 4 0;
 #X connect 121 0 51 0;
 #X restore -32 -111 pd META;
-#X text 24 -26 The SOURCE CODE in the SUBLIME. Miguel Oliveros \, Madrid
+#X text 24 -26 The SourceCode in the SUBLIME. Miguel Oliveros \, Madrid
 2016;
 #X connect 0 0 1 0;
 #X connect 0 0 15 0;
